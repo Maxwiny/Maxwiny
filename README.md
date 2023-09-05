@@ -16,7 +16,7 @@
 
 ### 😎 自我介绍 | Self-Introduction
 
-✨A Students from CUIT✨
+✨A Students from China✨
 
 ### ⚡ 我的技术栈 | My Tech Stack
 ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg)  ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff)
